@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.first{
+    height: 450spx;
+    width: 1349px;
+    background-image: url(https://www.etihad.com/content/dam/eag/etihadairways/etihadcom/Global/products/onboard-cabins/economy-class/etihad-economy-space-2.jpg?imwidth=1366);
+    background-size: cover
+}
+.c1{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    justify-content: center;
+}
+.cc1{
+    margin-left: 250px;
+    width: 1000px;
+    font-size: xx-large;
+    color: white;
+}
+.bg3{
+    height: 300px;
+    width: 1237px;
+    margin-left: 74.5px;
+    margin-top: 30px;
+}
+.bg1{
+    background-image: url(https://www.etihad.com/content/dam/eag/etihadairways/etihadcom/Global/products/onboard-cabins/first-class/first-class-couple-dining.jpg?imwidth=688);
+    background-size: cover;
+    height: 300px;
+    width: 600px;
+}
+.bg2{
+    background-image: url(https://www.etihad.com/content/dam/eag/etihadairways/etihadcom/Global/products/onboard-cabins/economy-class/economy-kid-watching-inflight-entertainment.jpg?imwidth=688);
+    background-size: cover;
+    height: 300px;
+    width: 600px;
+}
+.cc3{
+    background-color: white;
+    margin-top: 400px;
+    margin-left: 149px;
+    width: 1000px;
+    height: 100px;
+}
+.opt{
+    margin-top: -50px;
+    margin-left: 180px;
+}
+.img2{
+    background-color: rgb(241, 241, 241);
+    width: 1200px;
+}
+.center{
+    justify-self: center;
+}
+.img3 .i5 h2{
+    margin: 10px 0;
+}
+.img3 .i4 h2{
+    margin: 10px 0;
+}
+.margin{
+    margin: 25px 100px;
+}
+.img4{
+    flex-direction: column;
+    width: 1200px;
+    height: 500px;
+    background-image: url("bg.webp");
+    margin-left: 80px;
+}
+.inblock{
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 450px;
+    height: 300px;
+}
+.inblock1{
+    width: 500px;
+    height: 300px;
+    margin-left: 200px;
+}
+.inblock h1{
+    color: white;
+    padding: 7px;
+}
+.inblock p{
+    color: white;
+    padding: 15px;
+}
+.blank1{
+    width: 1200px;
+    height: 300px;
+}
+.b2{
+    background-color: rgb(241, 241, 241);
+    height: 40px;
+    width: 1200px;
+    margin-left: 74.5px;
+}
+.txt h1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}.i3 p{
+    margin-left: 30px;
+}
+.i5{
+    margin-left: -70px;
+}
